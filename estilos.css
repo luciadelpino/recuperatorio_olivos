@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Montserrat:wght@200&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #347278;
+	background-image: url(img/fondoindex.png);
+	font-family: 'Catamaran', sans-serif;
+}
+
+main{
+	width: 90%;
+	height: 700px;
+	margin-left: 5%;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+header{
+	width: 100%;
+	height: 100px;
+	background-color: #347278;
+	opacity: 0.8;
+	font-family: 'Catamaran', sans-serif;
+	padding: 2%;
+}
+
+.foto1{
+	margin-top: -1%;
+}
+
+#menu li{
+	display: inline;
+}
+
+#menu li a{
+	width: 10%;
+	font-size: 17px;
+	font-family: 'Catamaran', sans-serif;
+	text-decoration: none;
+	text-align: center;
+	float: right;
+	padding: 1%;
+	margin-right: 6%;
+	margin-left: -1%;
+	margin-top: -4%;
+	color: #FFFFFF;
+	background-color: #000000;
+	border-radius: 15px;
+}
+
+.textouno{
+	font-size: 15px;
+	color: #FFFFFF;
+	font-family: 'Catamaran', sans-serif;
+	margin-top: -1%;
+	margin-left: -1%;
+}
+
+section{
+	width: 100%;
+	height: 500px;
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 70px;
+	margin-left: 5%;
+	margin-top: 7.5%;
+}
+
+h2{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	margin-left: 13%;
+	margin-top: 1%;
+}
+
+h3{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+h4{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	margin-left: 1%;
+}
+
+.textodos{
+	color: #FFFFFF;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 18px;
+	text-align: justify;
+	margin-left: 67%;
+	margin-right: 2%;
+	margin-bottom: 8%;
+	margin-top: 9%;
+}
+
+h5{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+}
+
+#sara1{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	margin-left: 1%;
+	color: #FFFFFF;
+	margin-top: 1%;
+}
+
+#sara2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	float: left;
+	margin-left: 1%;
+	margin-top: 2.5%;
+}
+
+#sara3{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-left: 28%;
+	margin-top: -16.5%;
+}
+
+#marie{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-left: 28%;
+	margin-top: 1%;
+}
+
+#abuelo{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	float: right;
+	margin-right: 33%;
+	margin-top: -37%;
+}
+
+#trick1{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-left: 55.5%;
+	margin-top: -18%;
+}
+
+#trick2{
+	font-family: 'Catamaran', sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	float: right;
+	margin-right: 2%;
+	margin-top: -37%;
+}
+
+.textotres{
+	color: #FFFFFF;
+	font-family: 'Catamaran', sans-serif;
+	font-size: 20px;
+	margin-left: 1%;
+	margin-right: 45%;
+}
+
+#galeria{
+	text-align: center;
+}
+
+form{
+	width: 300px;
+	background-color: #9D9D9C;
+	padding: 1%;
+	display: inline;
+	float: left;
+}
+
+#formulario{
+	width: 20%;
+	height: 280px;
+	background-color: #9D9D9C;
+	margin-left: 1%;
+	font-family: 'Catamaran', sans-serif;
+	float: left;
+}
+
+.btn{
+	width: 40%;
+	height: 30px;
+	color: #FFFFFF;
+	background-color: #347278;
+	padding: 1%;
+	margin: 1%;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+.foto2{
+	float: right;
+	margin-right: 2%;
+}
+
+.foto3{
+	float: right;
+	margin-right: 6%;
+}
+
+footer{
+	width: 100%;
+	height: 100px;
+	margin-top: 4%;
+	background-color: #347278;
+	opacity: 0.8;
+}
+
+a{
+	font-size: 20px;
+	color: #9D9D9C;
+	font-family: 'Catamaran', sans-serif;
+	display: inline;
+	text-align: center;
+	text-decoration: none;
+}
+
+.uno{
+	float: left;
+	margin-left: 1%;
+}
+
+.dos{
+	text-align: center;
+	float: right;
+	margin-right: 45%;
+	margin-top: 4%;
+}
+
+.tres{
+	float: right;
+	margin-right: -53%;
+	margin-bottom: 2%;
+}
