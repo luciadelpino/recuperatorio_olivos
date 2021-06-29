@@ -9,7 +9,7 @@
 
 body{
 	background-color: #347278;
-	background-image: url(img/fondoindex.png);
+	background-image: url(../img/fondoindex.png);
 	font-family: 'Catamaran', sans-serif;
 }
 
@@ -19,6 +19,10 @@ main{
 	margin-left: 5%;
 	margin-left: auto;
 	margin-right: auto; 
+}
+
+#foto{
+
 }
 
 header{
